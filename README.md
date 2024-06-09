@@ -1,2 +1,3 @@
 # DS
 .............................
+This repo contains assignment solutions , ppt upto 8 , major project.
